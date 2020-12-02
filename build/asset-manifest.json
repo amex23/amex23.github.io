@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/amex23/amex23.github.io.git/static/css/main.ae8edba4.chunk.css",
+    "main.js": "/amex23/amex23.github.io.git/static/js/main.79aa1a05.chunk.js",
+    "main.js.map": "/amex23/amex23.github.io.git/static/js/main.79aa1a05.chunk.js.map",
+    "runtime-main.js": "/amex23/amex23.github.io.git/static/js/runtime-main.8c7e88bf.js",
+    "runtime-main.js.map": "/amex23/amex23.github.io.git/static/js/runtime-main.8c7e88bf.js.map",
+    "static/css/2.242f24fe.chunk.css": "/amex23/amex23.github.io.git/static/css/2.242f24fe.chunk.css",
+    "static/js/2.3eadef52.chunk.js": "/amex23/amex23.github.io.git/static/js/2.3eadef52.chunk.js",
+    "static/js/2.3eadef52.chunk.js.map": "/amex23/amex23.github.io.git/static/js/2.3eadef52.chunk.js.map",
+    "index.html": "/amex23/amex23.github.io.git/index.html",
+    "precache-manifest.fc85a9d9eac90d0e6e699359580a1f6b.js": "/amex23/amex23.github.io.git/precache-manifest.fc85a9d9eac90d0e6e699359580a1f6b.js",
+    "service-worker.js": "/amex23/amex23.github.io.git/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/amex23/amex23.github.io.git/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.ae8edba4.chunk.css.map": "/amex23/amex23.github.io.git/static/css/main.ae8edba4.chunk.css.map",
+    "static/js/2.3eadef52.chunk.js.LICENSE": "/amex23/amex23.github.io.git/static/js/2.3eadef52.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/amex23/amex23.github.io.git/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/amex23/amex23.github.io.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/amex23/amex23.github.io.git/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/amex23/amex23.github.io.git/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/amex23/amex23.github.io.git/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/amex23/amex23.github.io.git/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/amex23/amex23.github.io.git/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/amex23/amex23.github.io.git/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/amex23/amex23.github.io.git/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/amex23/amex23.github.io.git/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/amex23/amex23.github.io.git/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/amex23/amex23.github.io.git/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c7e88bf.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.3eadef52.chunk.js",
+    "static/css/main.ae8edba4.chunk.css",
+    "static/js/main.79aa1a05.chunk.js"
+  ]
+}
